@@ -1,0 +1,29 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Develop a weather app by putting into use Asynchronous JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTechConsult/weather-app.git"
+  },
+  "keywords": [
+    "Asynchronous",
+    "JS",
+    "Callbacks",
+    "HTTP",
+    "Promises"
+  ],
+  "author": "OpenTechConsult",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenTechConsult/weather-app/issues"
+  },
+  "homepage": "https://github.com/OpenTechConsult/weather-app#readme",
+  "devDependencies": {
+    "jshint": "^2.11.0"
+  }
+}
